@@ -1,3 +1,3 @@
 # dailyLeetcode
 
-My dauly challenge solution
+My daily challenge solution
