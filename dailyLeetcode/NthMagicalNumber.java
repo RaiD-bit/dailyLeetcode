@@ -1,4 +1,4 @@
-
+package dailyLeetcode;
 
 public class NthMagicalNumber {
     
